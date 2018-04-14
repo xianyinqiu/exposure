@@ -1,4 +1,4 @@
 #!/bin/bash
 
-print "hello world!"
-echo "hello world!"
+print "hello world!";
+echo "hello bear!";
